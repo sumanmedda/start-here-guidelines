@@ -11196,4 +11196,6 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@KuanHsienYEH](https://github.com/KuanHsienYEH)
 
+- [@sumanmedda](https://github.com/sumanmedda)
+
 - [@sylvainjeanelie](https://github.com/sylvainjeanelie)
